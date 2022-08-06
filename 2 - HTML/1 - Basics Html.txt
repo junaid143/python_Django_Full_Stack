@@ -1,0 +1,214 @@
+# Index 
+
+1 - Basics tags 
+
+_________________________________________________
+1 - heading tags 
+-------------------
+
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+
+_________________________________________________
+
+2 - paragraph Tag
+-------------------
+
+
+<p> Paragraph Tag </p>
+
+_________________________________________________
+
+3 - break Tag
+----------------
+
+<br>
+
+_________________________________________________
+
+4 - Anchor Tag & Attributes 
+-----------------------------
+
+href = " "
+
+eg
+
+<a href = "https://www.google.com"> Goto Google </a>
+
+ __________________________________________________
+
+5 - Image Tag & attributes
+---------------------------
+
+attributes
+
+src = "" 
+alt = ""
+width = ""
+height = ""
+
+eg 
+
+<img src = "image.jpg" alt = "No Image" width = "200" height = "200">
+
+___________________________________________________________
+
+
+6 - Text Formatting
+--------------------- 
+
+
+1 - <b>Bold text </b>
+
+2 - <strong> Bold text </strong>
+
+3 - <i> Italic text </i>
+
+4 - <em>This text is emphasized.</em>  # Italic text
+
+5 - <sub> subscript</sub>  
+ 
+6 - <sup>superscript</sup>
+
+7 - <small> Small Element </small>
+
+8 - <mark> milk </mark>
+
+9 - <del> blue </del> 
+
+______________________________________________________________
+
+7 - HTML Favicon (Title icon)
+--------------------------------
+
+
+
+<head>
+	<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+</head>
+
+____________________________________________________________
+
+
+8 - HTML List
+
+
+1 - Orderd List
+----------------
+eg
+
+<ol>
+	<li> python </li>
+	<li> Java </li>
+</ol>
+
+
+
+2 - Unordered List
+--------------------
+eg 
+
+<ul>
+	<li> Python </li>
+	<li> Java </li>
+</ul> 
+
+
+3 - Description List 
+----------------------
+ 
+eg 
+
+<dl>
+	<dt> Python </dt>
+	<dd> Python is simple and easy Language </dd>
+	
+
+	<dt> Java </dt>
+	<dd> java is simple and easy Language </dd>
+
+<dl>
+
+____________________________________________________________
+
+9 - Html table
+----------------
+
+
+eg table 
+__________________________
+| Name  | Age  |  Loc     |
+|-------------------------|
+|Junaid | 27   |  Mumbai  |      
+|Ayaan  | 25   |  Vashi   | 
+|_______|______|__________|
+
+
+<table border = "1" width = "100%">
+  <tr>
+    <th> Name</th>
+    <th> Age </th>
+    <th> Loc </th>
+  </tr>
+
+  <tr>
+
+    <td> Junaid </td>
+    <td> 27 </td>
+    <td> Mumbai </td>
+  </tr>
+
+  <tr>
+    <td> Ayaan </td>
+    <td> 25 </td>
+    <td> Vashi </td>
+  </tr>
+
+</table>
+
+
+_________________________________________________________
+
+10 - Html Buttons
+------------------
+
+
+<button type="button">Click Me!</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

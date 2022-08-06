@@ -1,0 +1,94 @@
+
+Html Style Attribute
+
+properties
+
+
+1 - Color Properties
+------------------
+
+background-color : red ;
+
+color : blue ;  # text color 
+
+#############################
+
+2 - Alignment Properties
+--------------------------
+
+text-align:center ; # element alignment
+
+
+#############################
+
+3 - Font Property
+-------------------
+
+font-family:verdana;
+
+font-size:300%;
+
+#############################
+
+4 - border property
+
+# Boder Style
+--------------
+
+border : dotted;
+border : dashed;
+border : solid;
+border : double;
+border : groove;
+border : ridge;
+border : inset;
+border : outset;
+border : none;
+border : hidden;
+border : dotted dashed solid double;
+
+
+# Border Width
+---------------
+
+border : 2px;
+
+# Border Widthand style
+-------------------------
+
+border : 2px solid black;
+
+#################################
+
+5 - Float Property 
+
+
+float :left ;
+float : right ;
+float : none ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Form </title>
+</head>
+<body>
+    <br>
+    <h3>Registration Form</h3>
+    <br>
+    <div style="float:left ;">
+        <form>
+            <label for='fname'> First Name :</label>
+            <input type="text" name="fname" id="fname" placeholder="Enter Your First Name" size="25"> <br> <br>
+
+            <label for="mname"> Middle Name : </label>
+            <input type="text" name="mname" id="mname" placeholder="Enter Your Middle Name" size="25"> <br> <br>
+
+            <label for="lname"> Last Name : </label>
+            <input type="text" name="lname" id="lname" placeholder="Enter Your Last Name" size="25" /> <br> <br>
+
+
+            <!-- Dropdown  -->
+            <label>
+                Course :
+            </label>
+            <select>
+                <option value="Course">Course</option>
+                <option value="Python">Python</option>
+                <option value="Java">Java</option>
+                <option value="HTML">HTML</option>
+                <option value="JavaScripts">JavaScripts</option>
+                <option value="Css">Css</option>
+                <option value="C++">C++</option>
+            </select>
+
+            <br>
+            <br>
+
+            <!-- radio Button -->
+            <label>
+                Gender :
+            </label><br>
+
+            <input type="radio" name="Gender" value="male"> Male <br>
+            <input type="radio" name="Gender" value="female"> Female <br>
+            <input type="radio" name="Gender" value="other"> Other
+            <br>
+            <br>
+
+            <!-- Contact  -->
+            <label>
+                Phone :
+            </label>
+            <input type="text" name="country code" value="+91" size="2">
+            <input type="text" name="phone" size="10"> <br> <br>
+
+            <label for="addr">Address</label><br>
+
+            <textarea cols="80" rows="5" value="address" id="addr"> </textarea>
+            <br> <br>
+
+            <label for="email">Email : </label>
+            <input type="email" id="email" name="email" required size="30"> <br> <br>
+
+            <label for="pass">Password : </label>
+            <input type="Password" id="pass" name="pass" required size="30"> <br><br>
+
+            <label for="pass1">Confirm password : </label>
+            <input type="Password" id="pass1" name="pass1" required size="30"> <br> <br><br>
+
+            <input type="submit">
+            <input type="reset">
+        </form>
+    </div>
+    <br><br><br>
+</body></html>
