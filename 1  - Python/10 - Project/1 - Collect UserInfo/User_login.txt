@@ -1,0 +1,3 @@
+junaid,ansarijunaid@gmail.com,123
+ayaan,ayaankhan@gmail.com,123
+shaz,shaz@gmail.com,123

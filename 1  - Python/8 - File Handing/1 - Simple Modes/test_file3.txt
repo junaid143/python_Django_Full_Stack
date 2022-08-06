@@ -1,0 +1,12 @@
+Value of a is :32
+Value of b is : 15
+Addition is :47
+
+Value of a is :52
+Value of b is : 25
+Addition is :77
+
+Value of x :9
+Value of y:5
+multiplication is :45
+

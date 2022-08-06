@@ -1,0 +1,21 @@
+# Collections 
+
+Kind of datastructure or datatype which is used to 
+collect or store the multiple data .
+we can say that its a collection 
+
+# type of collection.
+1 - mutable type collections 
+	(mutable means we can change of modify)
+
+	a - list
+	b - dictionary
+	c - set (frozenset())
+
+2 -Immutable collections. 
+	(immutable means we cant change of modify)
+	a - string (reguler expression)
+	b - tuple
+
+array 
+

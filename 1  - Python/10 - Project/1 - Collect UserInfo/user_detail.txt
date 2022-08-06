@@ -1,0 +1,20 @@
+*** Uique Code for User junaid is 3179 
+Name : junaid
+Age : 26
+Gender : Male
+Contact Number : 9517538527
+Email Id : ansarijunaid957@gmail.com
+Qualification : 10
+Income : 1000
+Location : mumbai
+
+*** Uique Code for User ayaan is 9915 ***
+Name : ayaan
+Age : 22
+Gender : Male
+Contact Number : 7539514565
+Email Id : ayaankhan@gmail.com
+Qualification : 12
+Income : None
+Location : navi mumbai
+

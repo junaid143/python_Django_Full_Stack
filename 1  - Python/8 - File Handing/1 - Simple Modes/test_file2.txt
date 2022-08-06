@@ -1,0 +1,3 @@
+Value of x is :8
+Value of y is :9
+Multipliaction is : 72
